@@ -9,8 +9,8 @@
 
 #include "vendor_init.h"
 
-#define DESCRIPTION "redfin-user 11 RQ3A.211001.001 7641976 release-keys"
-#define FINGERPRINT "google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys"
+#define DESCRIPTION "redfin-user 12 SP1A.211105.003 7757856 release-keys"
+#define FINGERPRINT "google/redfin/redfin:12/SP1A.211105.003/7757856:user/release-keys"
 
 static const variant_info_t vayu_global_info = {
     .hwc_value = "GLOBAL",
